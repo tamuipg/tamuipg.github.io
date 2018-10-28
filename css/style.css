@@ -1,0 +1,18 @@
+#landing {
+    height: 60vh;
+    width: 100%;
+    max-width: 100%;
+    background: skyblue;
+}
+
+.landing-head {
+    padding-top: 10%;
+}
+
+.home h1 {
+    font-size: 600%;
+}
+
+#about-on-home p{
+    font-size: 200%;
+}
